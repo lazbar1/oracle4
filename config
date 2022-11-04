@@ -1,1 +1,6 @@
-
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaay4ecgufe6gxxu26anx2iu5lc6cwkkkxfz4pqo7tya6dpdsdq6ivq
+fingerprint=31:c0:ac:d8:25:90:cb:55:3d:47:09:a5:70:57:28:6b
+tenancy=ocid1.tenancy.oc1..aaaaaaaanor7kbh3jykuc4ikfn2rqs5ulfce4si57hue5s3p6l6ozrpm7uba
+region=eu-zurich-1
+key_file=oci_private_key.pem # TODO
