@@ -1,9 +1,9 @@
-displayName = 'xxxxxxxx'
-compartmentId = 'xxxxxxx'
-availabilityDomain = "xxxxxxx"
-imageId = "xxxxxx"
-subnetId = 'xxxxx'
-ssh_authorized_keys = "xxxxxx"
+displayName = 'waydroid'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaanor7kbh3jykuc4ikfn2rqs5ulfce4si57hue5s3p6l6ozrpm7uba'
+availabilityDomain = "xgEq:EU-ZURICH-1-AD-1"
+imageId = "ocid1.image.oc1.eu-zurich-1.aaaaaaaabli2m435xutm4ssuwhdrf27cwxweysexkicsrjm5klddtbfuy5ba"
+subnetId = 'ocid1.subnet.oc1.eu-zurich-1.aaaaaaaaa3o62zz6m23bcwtrxb6azjhjpsiinx4djju4qkk5vpj2m4nlv7pa'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD4kF3XbVk7yRQbcF1TluG9U3oYwwvfWvfZY+UTdoVGrUC/ICVKup023g78y/Kdq49xSWikM/PqRfpxeBSuYeBJqO8umQsAUiHPwayvApuZ12C5zr7gxvRJpkmTHbp7h4iQOEgWGVb1YirSUZJ35sdsfhtD1xszXocX+eh0/NepkC9vHEY7sfQCBM+4W0R4i1Bf6fjxV9yhNyyhco+1udTb1sd+A97MkDKyOJalcaFFOgef8HPOcs36F5gPEzwaNylK8Y+1UzXOhqHAwjv3/uq3Xcnr/mXuePuVdc+ywj/yofHMnHfzkYEcawF7WNQ3k7i+auQSL20yHinPjbcPNJfr ssh-key-2022-11-04"
 
 
 import oci
